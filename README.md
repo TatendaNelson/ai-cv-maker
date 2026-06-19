@@ -1,6 +1,6 @@
 # AI CV Maker
 
-🎯 **Create job-winning CVs tailored to any job description** using AI-powered analysis and optimization.
+ **Create job-winning CVs tailored to any job description** using AI-powered analysis and optimization.
 
 ![AI CV Maker](https://img.shields.io/badge/AI%20Powered-CV%20Optimization-blue)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
@@ -8,25 +8,25 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.0-06B6D4?logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?logo=vite)
 
-## ✨ Features
+##  Features
 
-- **🤖 AI Job Analysis** - Paste any job description and our AI extracts keywords, required skills, seniority level, and industry
-- **📊 Match Score** - Get an instant overall match score plus breakdowns for skills, experience, keywords, and education
-- **💡 Smart Suggestions** - Receive AI-powered optimization suggestions prioritized by importance (High/Medium/Low)
-- **🎨 Multiple Templates** - Choose from 4 professional templates: Modern, Classic, Minimal, and Creative
-- **📱 Live Preview** - See your CV update in real-time as you edit
-- **📤 Export Options** - Download as PDF, export as JSON, or copy plain text for ATS systems
-- **🔄 Auto-Tailoring** - AI automatically reorders your experience and skills by relevance to the job
-- **💾 Local Storage** - All your data is saved locally in your browser
+- AI Job Analysis- Paste any job description, and our AI extracts keywords, required skills, seniority level, and industry
+- Match Score- Get an instant overall match score plus breakdowns for skills, experience, keywords, and education
+- Smart Suggestions - Receive AI-powered optimization suggestions prioritized by importance (High/Medium/Low)
+- Multiple Templates - Choose from 4 professional templates: Modern, Classic, Minimal, and Creative
+- Live Preview- See your CV update in real-time as you edit
+- Export Options- Download as PDF, export as JSON, or copy plain text for ATS systems
+- Auto-Tailoring - AI automatically reorders your experience and skills by relevance to the job
+- Local Storage - All your data is saved locally in your browser
 
-## 🚀 How It Works
+##  How It Works
 
 1. **Build Your Profile** - Enter your personal info, work experience, education, skills, projects, and certifications
 2. **Paste Job Description** - Copy and paste any job posting into the analyzer
 3. **AI Optimizes** - The AI extracts requirements, calculates match scores, and suggests improvements
 4. **Preview & Export** - Choose a template, preview your CV, and export as PDF
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React 18** + **TypeScript** - Frontend framework
 - **Vite** - Build tool
@@ -36,7 +36,7 @@
 - **Lucide React** - Icons
 - **Framer Motion** - Animations
 
-## 🏁 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -60,7 +60,7 @@ npm run dev
 npm run build
 ```
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ai-cv-maker/
@@ -89,7 +89,7 @@ ai-cv-maker/
 └── README.md
 ```
 
-## 🎯 AI Engine Features
+##  AI Engine Features
 
 The built-in AI engine analyzes job descriptions to:
 
@@ -103,7 +103,7 @@ The built-in AI engine analyzes job descriptions to:
   - Experience reordering by relevance
   - Keyword highlighting recommendations
 
-## 📝 Templates
+##  Templates
 
 | Template | Style | Best For |
 |----------|-------|----------|
@@ -112,11 +112,11 @@ The built-in AI engine analyzes job descriptions to:
 | **Minimal** | Clean with border accents | Design, marketing roles |
 | **Creative** | Bold color header | Startups, creative agencies |
 
-## 🔒 Privacy
+##  Privacy
 
 All data is stored **locally in your browser** using localStorage. No data is sent to any server or third-party service. Your CV information stays completely private.
 
-## 🚀 Deployment
+##  Deployment
 
 The app is built as a static site and can be deployed to:
 
@@ -130,11 +130,11 @@ npm run build
 # Deploy the dist/ folder
 ```
 
-## 🙏 Credits
+##  Credits
 
-Built with ❤️ by [Tatenda Nelson Matare](https://github.com/TatendaNelson)
+Built by [Tatenda Nelson Matare](https://github.com/TatendaNelson)
 
-## 📄 License
+##  License
 
 MIT License - feel free to use this project for personal or commercial purposes.
 
